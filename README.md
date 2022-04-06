@@ -2,7 +2,7 @@
 
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_ 
 
----
+
 
 ### Congrats on completing the [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)!
 
@@ -20,3 +20,8 @@ This is written in markdown language.
 
 More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
+
+
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
