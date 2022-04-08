@@ -5,7 +5,7 @@ We obtained an average 13.6% annual probability of winning the FSA Championship 
 
 <img src="confidence.png"
      alt="95% Confidence Intervals"
-     style="text-align: center; margin-left: 1000px; padding-left: 1000px" />
+     style="text-align: center; margin-left: 1000px; padding-left: 1000px;" />
 
 These probabilities were obtained through running beta regression models dependent on player position and other pertinent player statistics, some of which are listed below:
 
