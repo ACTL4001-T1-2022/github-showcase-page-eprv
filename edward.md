@@ -7,7 +7,7 @@ We obtained an average 13.6% annual probability of winning the FSA Championship 
      alt="95% Confidence Intervals"
      style="align: center; margin-left: 1000px;" />
 
-img[src~="confidence.png"] {
+img[src="confidence.png"] {
    width:150px;
    height:100px;
    align: center;
