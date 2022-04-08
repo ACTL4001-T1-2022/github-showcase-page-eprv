@@ -3,11 +3,9 @@
 
 We obtained an average 13.6% annual probability of winning the FSA Championship for our chosen team, with a 17.1% annual probability of ranking within the top 10 members of the FSA. This resulted in a 76.9% probability of winning the FSA Championship within 10 years, and a 60.8% probability of ranking within the top 10 members of the FSA within 5 years. The 95% confidence intervals for the annual probabilities are shown below.
 
-![image](confidence.png)
-
 <img src="confidence.png"
      alt="95% Confidence Intervals"
-     style="align: center" />
+     style="align: center;" />
 
 Four beta regression models were ran for each player position (defender, midfielder, forward and goalkeeper) with a determined 2021 probability of success as the response variables and chosen pertinent average player statistics as the independent variables. The fitted coefficient outputs for each player statistic across the four models were then applied to the Rarita team’s average player statistics across each player position, obtaining an average 13.6% annual probability of success for our chosen team, with a 95% confidence interval of 8.89% to 18.4%.
 
