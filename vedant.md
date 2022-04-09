@@ -3,7 +3,7 @@
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
 
 <p align="center">
-<img src="GDP data.png" />
+<img src="GDP data.png" width="400" height="400"/>
 </p>
 
 ### Congrats on completing the [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)!
