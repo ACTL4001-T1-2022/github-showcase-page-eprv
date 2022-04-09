@@ -13,9 +13,9 @@ The data provided to us included data on the players, data on economic factors a
 * 60.8% of ranking in top 10 in 5 years. 
 * 76.9% of winning the championship in 10 years. 
 
-Further detail for the GDP is provided in the economic section. 
+Further detail for the GDP is provided in the economic section.
 
-**Criteria For Selection**
+# Criteria For Selection
 
 With the budget in mind and access to player statistics, EPRV Consulting took a ‘Moneyballesque’ approach towards team selection. This approach suggests that a player's ‘performance score’ should be emphasised over their current value and position. The idea refers to evaluation statistics based on realistic temperament rather than their own predetermined attributes. This permits a minimisation in cost for each game win and hence maximises revenue (Wolfe, Babiak, Cameron and Quinn, 2007). 
 
@@ -34,7 +34,7 @@ The Table below attached shows five statistics relative to each attribute and th
 Normal standardisation for identified, raw statistics was conducted, to place emphasis on statistic rankings relative to the average rather than raw score. Occasionally, some players' statistics were an outlier. These were identified and attributed to them playing a low number of minutes in the season. 
 
 
-**Factors in Player Selection**
+# Factors in Player Selection
 
 The player scores and salaries were used to calculate ‘Performance Per Doubloon’ (PPD). This reflects the performance that each player contributes to the team per doubloon and formed a key factor in player selection. 
 
@@ -45,7 +45,7 @@ Further implemented quotas included maintaining a sufficient proportion of homeg
 Players from other nations were largely selected based on high performance scores and likely high reputations, increasing the brand value of the team. There is a clear connection between star player and brand equity of the team, to an extent where players become synonymous with their team. The figure below demonstrates the positive sway of star players on both on- and off-field transactions, which increase the equity of both the team and player. An investment of 10 million doubloons would be key in increasing brand awareness through highlighting our star players on various social media platforms. 
 
 
-**Our Team- Selected Players**
+# Our Team- Selected Players
 
 |Position|Player|Originating Nation|Originating Team|Salary (Doubloons)|PPD (Player Performance per million Doubloons)|
 |--------|------|------------------|----------------|------------------|----------------------------------------------|
