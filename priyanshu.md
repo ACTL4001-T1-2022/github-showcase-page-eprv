@@ -30,8 +30,8 @@ Players from other nations were largely selected based on high performance score
 
 **Our Team- Selected Players**
 
-| Player      |   Originating Nation        |            
-| ------      |   --------------------------|
+| Player      |   Originating Nation        | Originating Team      | Salary      | PPD (Player Performance per million Doubloons     |
+| ------      |   --------------------------| ----------------------| ------------| --------------------------------------------------|
 | Goalkeepers Score | =  0.3 × save% + 0.2 × GApersave + 0.2 × PkSave% + 0.2 × CS + 0.1 × (Minutes Played/90) |
 |Defence Score | = 0.2 × (Tak + int) + 0.2 × (Vs dribble Past) + 0.25 × PressuresSucc + 0.15 × BlocksBlocks + 0.2 × rr|
 |Passing Score | = 0.4 × TotalCMP% + 0.2 × (A - xA) + 0.15 × ProgPass + 0.2KP + 0.05 × (Total Passes) | 
