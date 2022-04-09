@@ -49,9 +49,9 @@ Players from other nations were largely selected based on high performance score
 
 |Position|Player|Originating Nation|Originating Team|Salary (Doubloons)|PPD (Player Performance per million Doubloons)|
 |--------|------|------------------|----------------|------------------|----------------------------------------------|
-|<b>Goalkeeping</b>|U. Nyeko|Rarita|Strong Oaks|2370000|0.526900184|
-|<b>Goalkeeping</b>|S. Marchetti|Rarita|Educated Avengers|1720000|0.202344232|
-|<b>Goalkeeping</b>|O. Herrmann|Nganion|Serious Magicians|8921000|0.093147118|
+|<b>Goalkeeper</b>|U. Nyeko|Rarita|Strong Oaks|2370000|0.526900184|
+|<b>Goalkeeper</b>|S. Marchetti|Rarita|Educated Avengers|1720000|0.202344232|
+|<b>Goalkeeper</b>|O. Herrmann|Nganion|Serious Magicians|8921000|0.093147118|
 |<b>Defender</b>|T. Khaukha|Central Namemo Laand|Serious Thunderbirds|24508000|0.228289722|
 |<b>Defender</b>|G. Frimpong|Sobianitedrucy|Serious Ranchers|28369000|0.169191483|
 |<b>Defender</b>|D. Nasser|Nganion|Wild Hornets|2431000|1.564616556|
@@ -118,5 +118,5 @@ From our milestones, there are 3 key investments that are formed. How each inves
 >Assuming Sports and Tourism contributes around 2.2% to national GDP, Rarita's average historical GDP of 4.01% (excluding COVID-19 years as that is a non-factor now) will increase to 4.9%:
 
 <p align="center">
-<img src="GDP data.png" width="700" height="420"/>
+<img src="GDP data.png" width="560" height="336"/>
 </p>
