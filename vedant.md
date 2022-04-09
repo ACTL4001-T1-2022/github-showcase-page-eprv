@@ -1,6 +1,11 @@
 # Economic Impact
 ---
-### Contributors to economic growth
+### Contributors to economic growth:
+
+* 500M Doubloon Stadium Investment
+  *Stadium Location: East Rarita - Highest GDP contributions and likelihood of succefuil launch
+* Acheiving Top 10 spot in championship within 5 years
+* Decreasing influence of COVID-19 on Economy
 
 <p align="center">
 <img src="GDP data.png" width="800" height="500"/>
