@@ -74,7 +74,6 @@ Players from other nations were largely selected based on high performance score
 
 
 # Probability Modelling
----
 
 We obtained an average 13.6% annual probability of winning the FSA Championship for our chosen team, with a 17.1% annual probability of ranking within the top 10 members of the FSA. This resulted in a 76.9% probability of winning the FSA Championship within 10 years, and a 60.8% probability of ranking within the top 10 members of the FSA within 5 years. The 95% confidence intervals for the annual probabilities are shown below.
 
@@ -106,7 +105,7 @@ From our milestones, there are 3 key investments that are formed. How each inves
 
 
 # Economic Impact
----
+
 ### Contributors to economic growth:
 > While economic growth has been volatile and slow in the past, partly due to COVID-19, we believe that a variety of factors will be able to boost Rarita's economy closer to the global average.
 
