@@ -2,7 +2,9 @@
 ---
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
 
-<source = "GDP data.png">
+<p align="center">
+<img src="GDP data.png" />
+</p>
 
 ### Congrats on completing the [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)!
 
