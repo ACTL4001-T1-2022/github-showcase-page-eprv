@@ -2,7 +2,14 @@
 
 Welcome to the EPRV landing page for the Raritan Football team! 
 
-INSERT GIF HERE 
+<p align="center">
+  <img src = "https://media.giphy.com/media/Vx8MSphrScTAc/giphy.gif" alt = "animated"/>
+</p>
+
+
+![Alt Text](https://media.giphy.com/media/yoJC2yYtWVHwCOTA9q/giphy.gif)
+![Alt Text](https://media.giphy.com/media/QTEG3F7jeSkQ8/giphy.gif)
+
 
 This page will include details on our various processes and strategies to ensure the Raritan team's success and ensure stakeholder goals are met. The 3 main goals for this project included:  
 * Become a top 10 team within 5 years. 
@@ -44,7 +51,9 @@ Further implemented quotas included maintaining a sufficient proportion of homeg
 
 Players from other nations were largely selected based on high performance scores and likely high reputations, increasing the brand value of the team. There is a clear connection between star player and brand equity of the team, to an extent where players become synonymous with their team. The figure below demonstrates the positive sway of star players on both on- and off-field transactions, which increase the equity of both the team and player. An investment of 10 million doubloons would be key in increasing brand awareness through highlighting our star players on various social media platforms. 
 
-![Star_Player](https://user-images.githubusercontent.com/103106995/162574868-830c3269-537e-46c9-9249-ab2f8fb1be2e.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103106995/162574868-830c3269-537e-46c9-9249-ab2f8fb1be2e.png" />
+</p>
 
 
 # Our Team- Selected Players
