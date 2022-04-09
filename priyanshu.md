@@ -1,7 +1,4 @@
-element {**Criteria For Selection**
-   font-size: 75;
-   
-  
+**Criteria For Selection**
 
 With the budget in mind and access to player statistics, EPRV Consulting took a ‘Moneyballesque’ approach towards team selection. This approach suggests that a player's ‘performance score’ should be emphasised over their current value and position. The idea refers to evaluation statistics based on realistic temperament rather than their own predetermined attributes. This permits a minimisation in cost for each game win and hence maximises revenue (Wolfe, Babiak, Cameron and Quinn, 2007). 
 
@@ -16,4 +13,19 @@ The Table below attached shows five statistics relative to each attribute and th
 |Passing Score | = 0.4 × TotalCMP% + 0.2 × (A - xA) + 0.15 × ProgPass + 0.2KP + 0.05 × (Total Passes) | 
 |Shooting Score | = 0.3 × (expected Goals - xG) + 0.2 × Standard SOT% + 0.2 × StandardG/Sh + 0.2 × Standard SOT/90 + 0.1 × ExpectednpxG/Sh|
 
+
 Normal standardisation for identified, raw statistics was conducted, to place emphasis on statistic rankings relative to the average rather than raw score. Occasionally, some players' statistics were an outlier. These were identified and attributed to them playing a low number of minutes in the season. 
+
+
+**Factors in Player Selection**
+
+The player scores and salaries were used to calculate ‘Performance Per Doubloon’ (PPD). This reflects the performance that each player contributes to the team per doubloon and formed a key factor in player selection. Further implemented quotas included maintaining a sufficient proportion of homegrown talent in the team, increasing growth in the number of fans, particularly those from Rarita, who may be more inclined to support and resonate with the homegrown players. 
+
+
+
+
+Players from other nations were largely selected based on high performance scores and likely high reputations, increasing the brand value of the team. There is a clear connection between star player and brand equity of the team, to an extent where players become synonymous with their team. The figure below demonstrates the positive sway of star players on both on- and off-field transactions, which increase the equity of both the team and player. An investment of 10 million doubloons would be key in increasing brand awareness through highlighting our star players on various social media platforms. 
+
+
+
+
