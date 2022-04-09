@@ -8,10 +8,10 @@ The Table below attached shows five statistics relative to each attribute and th
 
 | Position Score      |   Formula                                                                                     |            
 | --------------      |   --------------------------------------------------------------------------------------------|
-| Goalkeepers Score | =  0.3 × save% + 0.2 × GApersave + 0.2 × PkSave% + 0.2 × CS + 0.1 × (Minutes Played/90) |
-|Defence Score | = 0.2 × (Tak + int) + 0.2 × (Vs dribble Past) + 0.25 × PressuresSucc + 0.15 × BlocksBlocks + 0.2 × rr|
-|Passing Score | = 0.4 × TotalCMP% + 0.2 × (A - xA) + 0.15 × ProgPass + 0.2KP + 0.05 × (Total Passes) | 
-|Shooting Score | = 0.3 × (expected Goals - xG) + 0.2 × Standard SOT% + 0.2 × StandardG/Sh + 0.2 × Standard SOT/90 + 0.1 × ExpectednpxG/Sh|
+|<b> Goalkeepers Score</b> | =  0.3 × save% + 0.2 × GApersave + 0.2 × PkSave% + 0.2 × CS + 0.1 × (Minutes Played/90) |
+|<b>Defence Score</b> | = 0.2 × (Tak + int) + 0.2 × (Vs dribble Past) + 0.25 × PressuresSucc + 0.15 × BlocksBlocks + 0.2 × rr|
+|<b>Passing Score </b>| = 0.4 × TotalCMP% + 0.2 × (A - xA) + 0.15 × ProgPass + 0.2KP + 0.05 × (Total Passes) | 
+|<b>Shooting Score</b> | = 0.3 × (expected Goals - xG) + 0.2 × Standard SOT% + 0.2 × StandardG/Sh + 0.2 × Standard SOT/90 + 0.1 × ExpectednpxG/Sh|
 
 
 Normal standardisation for identified, raw statistics was conducted, to place emphasis on statistic rankings relative to the average rather than raw score. Occasionally, some players' statistics were an outlier. These were identified and attributed to them playing a low number of minutes in the season. 
