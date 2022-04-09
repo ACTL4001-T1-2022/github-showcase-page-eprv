@@ -18,7 +18,5 @@ This is written in markdown language.
 ---
 >Be creative! Feel free to link to embed your [data](template/player_data_salaries_2020.csv), [code](template/sample-data-clean.ipynb), [image](template/ACC.png) here
 
-More information on GitHub Pages can be found [here](https://pages.github.com/)
-![](template/Actuarial.gif)
 
 
