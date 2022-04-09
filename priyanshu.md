@@ -21,6 +21,8 @@ Normal standardisation for identified, raw statistics was conducted, to place em
 
 The player scores and salaries were used to calculate ‘Performance Per Doubloon’ (PPD). This reflects the performance that each player contributes to the team per doubloon and formed a key factor in player selection. Further implemented quotas included maintaining a sufficient proportion of homegrown talent in the team, increasing growth in the number of fans, particularly those from Rarita, who may be more inclined to support and resonate with the homegrown players. 
 
+![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+
 
 
 
