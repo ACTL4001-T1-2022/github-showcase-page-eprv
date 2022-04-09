@@ -28,5 +28,11 @@ Further implemented quotas included maintaining a sufficient proportion of homeg
 Players from other nations were largely selected based on high performance scores and likely high reputations, increasing the brand value of the team. There is a clear connection between star player and brand equity of the team, to an extent where players become synonymous with their team. The figure below demonstrates the positive sway of star players on both on- and off-field transactions, which increase the equity of both the team and player. An investment of 10 million doubloons would be key in increasing brand awareness through highlighting our star players on various social media platforms. 
 
 
+**Factors in Player Selection**
 
-
+| Position Score      |   Formula                                                                                     |            
+| --------------      |   --------------------------------------------------------------------------------------------|
+| Goalkeepers Score | =  0.3 × save% + 0.2 × GApersave + 0.2 × PkSave% + 0.2 × CS + 0.1 × (Minutes Played/90) |
+|Defence Score | = 0.2 × (Tak + int) + 0.2 × (Vs dribble Past) + 0.25 × PressuresSucc + 0.15 × BlocksBlocks + 0.2 × rr|
+|Passing Score | = 0.4 × TotalCMP% + 0.2 × (A - xA) + 0.15 × ProgPass + 0.2KP + 0.05 × (Total Passes) | 
+|Shooting Score | = 0.3 × (expected Goals - xG) + 0.2 × Standard SOT% + 0.2 × StandardG/Sh + 0.2 × Standard SOT/90 + 0.1 × ExpectednpxG/Sh|
