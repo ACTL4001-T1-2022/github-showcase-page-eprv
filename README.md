@@ -119,3 +119,7 @@ From our milestones, there are 3 key investments that are formed. How each inves
 <p align="center">
 <img src="GDP data.png" width="560" height="336"/>
 </p>
+
+# Conclusion 
+
+We have utlised an effective data analytics strategy to select a football team that is not only feasible in achieving Rarita's soccer goals, but also effective in increasing the overall GDP of the nation. Utilising the Actuarial Control Cycle, the method of team selection and results of our investments will be monitored and tweaked into the future to ensure the continued viability of our strategy.
