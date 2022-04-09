@@ -19,12 +19,11 @@ Normal standardisation for identified, raw statistics was conducted, to place em
 
 **Factors in Player Selection**
 
-The player scores and salaries were used to calculate ‘Performance Per Doubloon’ (PPD). This reflects the performance that each player contributes to the team per doubloon and formed a key factor in player selection. Further implemented quotas included maintaining a sufficient proportion of homegrown talent in the team, increasing growth in the number of fans, particularly those from Rarita, who may be more inclined to support and resonate with the homegrown players. 
+The player scores and salaries were used to calculate ‘Performance Per Doubloon’ (PPD). This reflects the performance that each player contributes to the team per doubloon and formed a key factor in player selection. 
 
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+PPD = SCORE/SALARY
 
-
-
+Further implemented quotas included maintaining a sufficient proportion of homegrown talent in the team, increasing growth in the number of fans, particularly those from Rarita, who may be more inclined to support and resonate with the homegrown players. 
 
 Players from other nations were largely selected based on high performance scores and likely high reputations, increasing the brand value of the team. There is a clear connection between star player and brand equity of the team, to an extent where players become synonymous with their team. The figure below demonstrates the positive sway of star players on both on- and off-field transactions, which increase the equity of both the team and player. An investment of 10 million doubloons would be key in increasing brand awareness through highlighting our star players on various social media platforms. 
 
