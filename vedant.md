@@ -1,6 +1,6 @@
 # Economic Impact
 ---
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
+### Contributors to economic growth
 
 <p align="center">
 <img src="GDP data.png" width="800" height="500"/>
