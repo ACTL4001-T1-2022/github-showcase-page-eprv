@@ -1,6 +1,7 @@
 # Economic Impact
 ---
 ### Contributors to economic growth:
+> While economic growth has been volatile and slow in the past, partly due to COVID-19, we believe that a variety of factors will be able to boost Rarita's economy closer to the global average.
 
 * 500M Doubloon Stadium Investment
   * Stadium Location: East Rarita - Highest GDP contributions and likelihood of succefuil launch
