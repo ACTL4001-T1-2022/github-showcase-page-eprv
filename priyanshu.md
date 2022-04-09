@@ -30,6 +30,27 @@ Players from other nations were largely selected based on high performance score
 
 **Our Team- Selected Players**
 
-|Position|Player|Originating Nation|Originating Team|Salary|PPD (Player Performance per million Doubloons)|
-|--------|------|------------------|----------------|------|----------------------------------------------|
-|th|ghj|
+|Position|Player|Originating Nation|Originating Team|Salary (Doubloons)|PPD (Player Performance per million Doubloons)|
+|--------|------|------------------|----------------|------------------|----------------------------------------------|
+|Goalkeeping|U. Nyeko|Rarita|Strong Oaks|2370000|0.526900184|
+|Goalkeeping|S. Marchetti|Rarita|Educated Avengers|1720000|0.202344232|
+|Goalkeeping|O. Herrmann|Nganion|Serious Magicians|8921000|0.093147118|
+|Defender|T. Khaukha|Central Namemo Laand|Serious Thunderbirds|24508000|0.228289722|
+|Defender|G. Frimpong|Sobianitedrucy|Serious Ranchers|28369000|0.169191483|
+|Defender|D. Nasser|Nganion|Wild Hornets|2431000|1.564616556|
+|Defender|K. Nalwanga|Rarita|Black Coyotes|5110000|0.272919981|
+|Defender|A. Mtambo|Rarita|Red Anchormen|6520000|0.129377489|
+|Defender|W. Martinez|Rarita|Black Coyotes|2060000|0.307364286|
+|Defender|H. Amade|Rarita|Wild Hornets|1710000|0.282127505|
+|Forward|W. Namukose|Coastpa Barleslands|Flying Bombadiers|10175000|0.297421703|
+|Forward|N. Yamashita|Rarita|Strong Oaks|8270000|0.187694591|
+|Forward|A. Hasibuan|Rarita|Educated Avengers|680000|0.440014673|
+|Forward|F. Ajio|Rarita|Wild Hornets|1990000|0.367779132|
+|Forward|J. Singini|People's Land of Maneau|Marvelous Coyotes|2651000|0.417214083|
+|Midfielder|V. Golob|Sobianitedrucy|Marvelous Patriots|42669000|0.138144879|
+|Midfielder|P. Mlotshwa|Sobianitedrucy|Fighting Wave|34045000|0.124890539|
+|Midfielder|X. Takagi|Rarita|Strong Oaks|4810000|0.856207944|
+|Midfielder|P. Rabiu|Rarita|Serious Buffaloes|7280000|0.424678971|
+|Midfielder|O. Wanjala|Rarita|Black Coyotes|1750000|1.647618475|
+|Midfielder|F. Chin|Rarita|Black Coyotes|1340000|1.479212965|
+|Midfielder|K. Mawanda|Varijitri Isles|Black Coyotes|1859000|2.459204192|
