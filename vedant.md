@@ -11,7 +11,7 @@
 >Assuming Sports and Tourism contributes around 2.2% to national GDP, Rarita's average historical GDP of 4.01% (excluding COVID-19 years as that is a non-factor now) will increase to 4.9%:
 
 <p align="center">
-<img src="GDP data.png" width="800" height="500"/>
+<img src="GDP data.png" width="700" height="450"/>
 </p>
 
 ---
