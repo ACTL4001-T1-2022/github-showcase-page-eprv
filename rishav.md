@@ -29,3 +29,7 @@ From our milestones, there are 3 key investments that are formed. How each inves
 * <b> Stadium Investment:</b> Revenue and GDP generated through stadium. 
 * <b> Social Media Investment:</b> Year on year growth in social media engagement. 
 * <b> Team Selection Methodology:</b> Increasing probability to win championship over time.
+
+# Conclusion 
+
+We have utlised an effective data analytics strategy to select a football team that is not only feasible in achieving Rarita's soccer goals, but also effective in increasing the overall GDP of the nation. Utilising the Actuarial Control Cycle, the method of team selection and results of our investments will be monitored and tweaked into the future to ensure the continued viability of our strategy. 
