@@ -1,6 +1,10 @@
 # Introduction 
 
-Welcome to the EPRV landing page for the Raritan Football team! This page will include details on our various processes and strategies to ensure the Raritan team's success and ensure stakeholder goals are met. The 3 main goals for this project included:  
+Welcome to the EPRV landing page for the Raritan Football team! 
+
+INSERT GIF HERE 
+
+This page will include details on our various processes and strategies to ensure the Raritan team's success and ensure stakeholder goals are met. The 3 main goals for this project included:  
 * Become a top 10 team within 5 years. 
 * Win the championship in 10 years. 
 * Increase the Raritan GDP. 
