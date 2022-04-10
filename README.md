@@ -3,7 +3,7 @@
 Welcome to the EPRV landing page for the Raritan Football team! 
 
 <p align="center">
-  <img src = "https://media.giphy.com/media/Vx8MSphrScTAc/giphy.gif" alt = "animated"/>
+  <img src = "https://media.giphy.com/media/QTEG3F7jeSkQ8/giphy.gif" alt = "animated"/>
 </p>
 
 
