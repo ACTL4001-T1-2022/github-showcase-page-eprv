@@ -3,9 +3,8 @@
 Welcome to the EPRV landing page for the Raritan Football team! 
 
 <p align="center">
-  <img src = "https://media.giphy.com/media/QTEG3F7jeSkQ8/giphy.gif" alt = "animated"/>
+  <img src = "https://media.giphy.com/media/3o6ZtnOiwcbJqSwdNe/giphy.gif" alt = "animated"/>
 </p>
-
 
 This page will include details on our various processes and strategies to ensure the Raritan team's success and ensure stakeholder goals are met. The 3 main goals for this project included:  
 * Become a top 10 team within 5 years. 
